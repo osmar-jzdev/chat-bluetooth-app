@@ -1,1 +1,1 @@
-# Bluetooth Chat app
+# Chat Bluetooth app
